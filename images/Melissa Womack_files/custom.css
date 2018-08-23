@@ -1,0 +1,23 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.name {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(170, 130, 27);
+}
+
+.icons {
+    color:black;
+}
+
+.about {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(170, 130, 27);
+    
+}
+
+.content {
+    color: rgb(219, 219, 219);
+}
+
