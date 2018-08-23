@@ -1,6 +1,9 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
 }
+header {
+    background-color: black;
+}
 
 .name {
     font-family: 'Raleway', sans-serif;
@@ -8,7 +11,7 @@ body {
 }
 
 .icons {
-    color:black;
+    color:rgb(170, 130, 27);
 }
 
 .about {
@@ -17,7 +20,24 @@ body {
     
 }
 
+.image {
+    border-radius: 0.75em;
+}
+
+.portfolio {
+    background-color: black;
+}
+
 .content {
-    color: rgb(219, 219, 219);
+    color:  black;
+}
+
+.wrap {
+    border: solid rgb(170, 130, 27);
+    border-width: 2px 0 2px 0;
+}
+
+.foot {
+    color:rgb(170, 130, 27);
 }
 
